@@ -1,4 +1,6 @@
-# Hola, soy Edixon Alvarado Bienvenidos(a)
+# Hola, soy Edixon Alvarado 
+
+# Bienvenidos(a)
 
 Bienvenido(a) a mi perfil de GitHub. Actualmente, soy un estudiante de programación y ciberseguridad enfocado en mejorar continuamente mis habilidades.
 
